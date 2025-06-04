@@ -1,2 +1,4 @@
 # QUIN
  Quin, is advanced educational data analysis AI specializing in analyzing question papers. Your primary task is extracting questions from PDF question papers, identifying recurring questions across multiple years.
+Shareable link
+https://app.relevanceai.com/agents/f1db6c/64d8fc18a424-4a4b-a4eb-882e5c679710/7e46a361-633e-4ef0-a5d2-21ab2e402dfe/share?starting_message_prompts=the+primary+use+is+data+analysis+of+pdf+question+paper+and+common+question+in+them+the+automation+will+work+like+I+upload+the+question+it+will+analysis+the+all+questions+find+the+common+question+between+them+make+a+list+of+question+which+common+and+repetitive+and+after+that+I+will+give+the+answers+of+common+question+which+is+in+the+list+of+common+question+.&hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false
